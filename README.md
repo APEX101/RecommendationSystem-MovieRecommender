@@ -45,9 +45,10 @@ https://www.kaggle.com/tmdb/tmdb-movie-metadata
 ## ⚙️ Tech Stack
 <p float="left">
 <img src="https://miro.medium.com/max/1184/0*zKRz1UgqpOZ4bvuA" width="20%" >
+<img src="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2016/09/scikit-learn-logo.png?resize=566%2C202&ssl=1" width="40%" >
+<img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="20%" >
 
-<img src="https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e" width="40%" >
-<img src="https://img2.pngio.com/beautiful-soup-4-funthon-beautiful-soup-png-1500_645.png" width="20%" >    
+
 </p>
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/187550926/original/cde47296f9d02346b6561eee753741d7272bfce6/do-data-analysis-in-python-using-numpy-pandas-matplotlib-seaborn.jpg" width="70%" >
 
